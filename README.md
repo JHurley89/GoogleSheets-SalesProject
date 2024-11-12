@@ -1,1 +1,1 @@
-# GoogleSheets-SalesProject
+## This project is done with Google Sheets with data from Maven Analytics. I merged data from one table to another before creating a series of pivot tables. Afterward, I added a series of charts with slicers for the manager and regional office. This showed sales performance broken down by quarter.
